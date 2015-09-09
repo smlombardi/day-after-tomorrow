@@ -1,0 +1,17 @@
+{
+  "name": "day-after-tomorrow",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Port and modernization of the Tomorrow Light theme",
+  "keywords": [
+    "light",
+    "colorful",
+    "front-end",
+    "syntax"
+  ],
+  "repository": "https://github.com/atom/tomorrow",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
