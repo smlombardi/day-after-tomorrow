@@ -10,10 +10,10 @@ Font in the screenshot is Source Code Pro Medium (instead of Regular).  I find t
 
 
 ###SCSS
-![image](https://raw.githubusercontent.com/smlombardi/today/master/scss.png)
+![image](https://raw.githubusercontent.com/smlombardi/day-after-tomorrow/master/scss.png)
 
 ###HTML
-![image](https://raw.githubusercontent.com/smlombardi/today/master/html.png)
+![image](https://raw.githubusercontent.com/smlombardi/day-after-tomorrow/master/html.png)
 
 ###JS
-![image](https://raw.githubusercontent.com/smlombardi/today/master/js.png)
+![image](https://raw.githubusercontent.com/smlombardi/day-after-tomorrow/master/js.png)
