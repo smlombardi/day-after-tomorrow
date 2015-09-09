@@ -9,7 +9,7 @@
     "front-end",
     "syntax"
   ],
-  "repository": "https://github.com/atom/tomorrow",
+  "repository": "https://github.com/smlombardi/day-after-tomorrow",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
